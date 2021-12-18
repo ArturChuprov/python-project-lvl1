@@ -1,0 +1,8 @@
+name: My_linter
+on: push
+jobs:
+  my-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: my-step
+        run: poetry run flake8 brain_games
