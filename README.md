@@ -5,4 +5,4 @@
 
 [![my_linter](https://github.com/ArturChuprov/python-project-lvl1/actions/workflows/main.yml/badge.svg)](https://github.com/ArturChuprov/python-project-lvl1/actions/workflows/main.yml)
 
-<a href="https://asciinema.org/a/461560" target="_blank"><img src="https://asciinema.org/a/461560.svg" /></a>
+https://asciinema.org/a/461560
